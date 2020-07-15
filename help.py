@@ -12,6 +12,7 @@ pd.set_option('display.max_colwidth', 5000)
 import sys
 # ддя linux
 sys.path.append('//home//roman//python//')
+sys.path.append('//home//roman_vm//my_lib//')
 # ддя windows
 sys.path.append('C:\\Users\\Tsaregorodtsev.Roman\\python\\')
 
